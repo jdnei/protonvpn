@@ -1,4 +1,4 @@
-![img](https://github.com/jdnei/protonvpn/blob/main/protonvpn/protonvpn_1200x100_banner.png?raw=ture)
+[![Proton VPN 30天退款保障](https://raw.githubusercontent.com/jdnei/protonvpn/main/protonvpn/protonvpn_1200x100_banner.png)](https://protonvpn.com/zh-tw)
 # ProtonVPN官方地址（2026年07月01日更新）
 ProtonVPN官网地址</br>
 官方地址：[protonvpn.com](https://protonvpn.com/)</br>
@@ -41,5 +41,4 @@ Proton VPN 总部位于瑞士，受严格隐私法律保护，采用 AES-256 加
 - 🆓 提供永久免费套餐，可先体验再决定是否升级
 
 > **提示：** VPN 在不同地区的连接情况可能会因网络环境而有所变化。如果计划前往网络受限地区，建议提前下载并安装客户端，以获得更好的使用体验。
-
 
