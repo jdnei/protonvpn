@@ -1,7 +1,10 @@
-[![Proton VPN 30天退款保障](https://raw.githubusercontent.com/jdnei/protonvpn/main/protonvpn/protonvpn_1200x100_banner.png)](https://protonvpn.com/zh-tw)
+[![Proton VPN 30天退款保障](https://raw.githubusercontent.com/jdnei/protonvpn/main/protonvpn/protonvpn_1200x100_banner.png)](https://go.iix.im/proton)
 # ProtonVPN官方地址（2026年07月01日更新）
 ProtonVPN官网地址</br>
-官方地址：[protonvpn.com](https://protonvpn.com/)</br>
+官方地址：[protonvpn.com/zh-tw](https://protonvpn.com/zh-tw)</br>
+## 优惠
+`Proton VPN 官方合作伙伴优惠：24个月套餐低至 US$2.99/月，约 70% 折扣，并提供 30 天退款保证。`</br>
+👉[领取 Proton VPN 官方 70% 优惠](https://go.iix.im/proton)</br>
 ## 下载
 📥 Proton VPN </br>
 🪟 [Windows](https://protonvpn.com/download-windows) ｜ 🍎 [macOS](https://protonvpn.com/download-macos) ｜ 🐧 [Linux](https://protonvpn.com/download-linux) ｜ </br>💻 [Chromebook](https://protonvpn.com/download) ｜ 🤖 [Android](https://play.google.com/store/apps/details?id=ch.protonvpn.android) ｜ 🍎 [iPhone / iPad](https://apps.apple.com/app/proton-vpn-fast-secure/id1437005085) ｜</br> 🌍 [Chrome](https://protonvpn.com/download-chrome-extension) ｜ 🦊 [Firefox](https://protonvpn.com/download) ｜ </br>📺 [Android TV](https://protonvpn.com/download) ｜ 🍎 [Apple TV](https://protonvpn.com/download-appletv) ｜ 🔥 [Fire TV](https://protonvpn.com/download)
