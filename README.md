@@ -1,2 +1,58 @@
-# protonvpn
-protonvpn
+![img](https://github.com/jdnei/protonvpn/blob/main/protonvpn/protonvpn_1200x100_banner.png?raw=ture)
+# ProtonVPN官方地址（2026年07月01日更新）
+ProtonVPN官网地址</br>
+官方地址：[protonvpn.com](https://protonvpn.com/)</br>
+
+## 简介
+Proton VPN 是由瑞士 Proton 团队推出的知名 VPN 服务，以隐私保护、安全加密和无日志政策为核心，支持多平台使用，并提供永久免费套餐。
+## 优势
+Proton VPN 总部位于瑞士，受严格隐私法律保护，采用 AES-256 加密和 WireGuard、OpenVPN 等主流协议，无日志政策通过独立审计。客户端完全开源，提供 Secure Core 多跳节点、Kill Switch、DNS 泄漏保护及免费套餐，兼顾安全、稳定与易用性，是注重隐私和网络安全用户的热门选择。
+## 套餐对比
+### NordVPN、Surfshark 与 Proton VPN 对比
+| 功能 | NordVPN | Surfshark | **Proton VPN（推荐）⭐** |
+|------|----------|-----------|-------------------------|
+| 中国地区使用体验 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| 连接稳定性 | 良好 | 良好 | 优秀 |
+| 隐私保护 | 优秀 | 良好 | **优秀（瑞士隐私法律）** |
+| 无日志政策 | ✅ | ✅ | **✅（通过独立审计）** |
+| 开源客户端 | ❌ | ❌ | ✅ |
+| 独立安全审计 | ✅ | ✅ | ✅ |
+| Secure Core 多跳节点 | ❌ | ❌ | ✅ |
+| 免费套餐 | ❌ | ❌ | ✅ |
+| 流媒体解锁 | Netflix、Disney+、Hulu | Netflix、Disney+、Hulu | Netflix、Disney+、Hulu |
+| P2P 下载 | ✅ | ✅ | ✅ |
+| Kill Switch（网络锁） | ✅ | ✅ | ✅ |
+| 多跳线路 | ✅ | ✅ | ✅（Secure Core） |
+| 公司所在地 | 巴拿马 | 荷兰 | **瑞士** |
+| 适合人群 | 追求速度 | 注重性价比 | **重视隐私、安全与长期使用** |
+
+## 推荐理由
+
+如果你希望获得更好的隐私保护和长期稳定的 VPN 服务，**Proton VPN** 是值得优先考虑的选择。
+
+### 为什么推荐 Proton VPN？
+
+- 🇨🇭 总部位于瑞士，受到严格的隐私法律保护
+- 🔓 全平台客户端完全开源，代码公开透明
+- 🛡 无日志政策经过第三方独立安全审计
+- 🔒 提供 Secure Core 多跳线路，进一步增强隐私保护
+- 🎬 支持 Netflix、Disney+、Hulu 等主流流媒体
+- 💻 支持 Windows、macOS、Linux、Android、iPhone、iPad 等多个平台
+- 🆓 提供永久免费套餐，可先体验再决定是否升级
+
+> **提示：** VPN 在不同地区的连接情况可能会因网络环境而有所变化。如果计划前往网络受限地区，建议提前下载并安装客户端，以获得更好的使用体验。
+
+---
+
+## 我们的建议
+
+三款 VPN 都是国际知名品牌，均提供较高的安全性和完善的功能。
+
+如果你：
+
+- 想获得更强的隐私保护，推荐 **Proton VPN**
+- 希望使用开源、透明、安全的 VPN，推荐 **Proton VPN**
+- 希望拥有免费的长期使用方案，推荐 **Proton VPN**
+- 更关注瑞士隐私法律带来的数据保护优势，推荐 **Proton VPN**
+
+综合隐私、安全性、透明度以及长期使用体验，**Proton VPN 是我们最推荐的 VPN 服务之一。**
