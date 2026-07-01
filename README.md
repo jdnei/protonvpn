@@ -1,10 +1,10 @@
-[![Proton VPN 30天退款保障](https://raw.githubusercontent.com/jdnei/protonvpn/main/protonvpn/protonvpn_1200x100_banner.png)](https://go.iix.im/proton)
+[![Proton VPN 30天退款保障](https://raw.githubusercontent.com/jdnei/protonvpn/main/protonvpn/protonvpn_1200x100_banner.png)](https://go.iix.im/p01)
 # ProtonVPN官方地址（2026年07月01日更新）
 ProtonVPN官网地址</br>
 官方地址：[protonvpn.com/zh-tw](https://protonvpn.com/zh-tw)</br>
 ## 优惠
 `Proton VPN 官方合作伙伴优惠：24个月套餐低至 US$2.99/月，约 70% 折扣，并提供 30 天退款保证。`</br>
-👉[领取 Proton VPN 官方 70% 优惠](https://go.iix.im/proton)</br>
+👉[领取 Proton VPN 官方 70% 优惠](https://go.iix.im/p01)</br>
 ![image](?raw=ture)
 ## 下载
 📥 Proton VPN </br>
