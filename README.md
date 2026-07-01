@@ -7,7 +7,6 @@ ProtonVPN官网地址</br>
 👉[领取 Proton VPN 官方 70% 优惠](https://go.iix.im/p01)</br>
 ![image](?raw=ture)
 ## 下载
-📥 Proton VPN </br>
 🪟 [Windows](https://protonvpn.com/download-windows) ｜ 🍎 [macOS](https://protonvpn.com/download-macos) ｜ 🐧 [Linux](https://protonvpn.com/download-linux) ｜ </br>💻 [Chromebook](https://protonvpn.com/download) ｜ 🤖 [Android](https://play.google.com/store/apps/details?id=ch.protonvpn.android) ｜ 🍎 [iPhone / iPad](https://apps.apple.com/app/proton-vpn-fast-secure/id1437005085) ｜</br> 🌍 [Chrome](https://protonvpn.com/download-chrome-extension) ｜ 🦊 [Firefox](https://protonvpn.com/download) ｜ </br>📺 [Android TV](https://protonvpn.com/download) ｜ 🍎 [Apple TV](https://protonvpn.com/download-appletv) ｜ 🔥 [Fire TV](https://protonvpn.com/download)
 
 ## 简介
