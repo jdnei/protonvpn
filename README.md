@@ -1,5 +1,5 @@
 [![Proton VPN 30天退款保障](https://github.com/jdnei/protonvpn/blob/main/protonvpn/202607020928.png?raw=ture)](https://go.iix.im/p01)
-# ProtonVPN官方地址（2026年07月01日更新）
+# ProtonVPN官方地址(2026年07月01日更新)
 ProtonVPN官网地址</br>
 官方地址：[protonvpn.com/zh-tw](https://protonvpn.com/zh-tw)</br>
 ## 优惠
