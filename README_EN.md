@@ -1,144 +1,69 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
-# NaiXi Nexitally VPN Official Website (Updated November 3, 2026)
 
-NaiXi Nexitally Premium Dedicated-Line VPN Official Website<br>
+[![Proton VPN 30-Day Money-Back Guarantee](https://github.com/jdnei/protonvpn/blob/main/protonvpn/202607020928.png?raw=true)](https://to.iix.im/p01)
 
-Latest Address: [nxonearth.com](https://to.iix.im/nx01) (Disable your proxy software before visiting)<br>
-Official Website: [nxonearth.com](https://to.iix.im/nx01) (Disable your proxy software before visiting)<br>
+# ProtonVPN Official Website (Updated November 4, 2026)
 
-⚠️ Nexitally has recently experienced connection interruptions. If you have not purchased an annual subscription, you may consider these alternatives:
+ProtonVPN Official Website</br>
 
-- TAG Premium Dedicated-Line VPN: [Review](https://github.com/jdnei/TAG)
-- BaiYueGuang Premium Dedicated-Line VPN: [Review](https://github.com/jdnei/bygcloud)
+Official Website: [protonvpn.com/zh-tw](https://protonvpn.com/zh-tw)</br>
 
-2026 Best VPN Recommendations and Proxy Node Sharing: [https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)<br>
+## Special Offer
 
-## Telegram VPN Community #AD
+`Exclusive Proton VPN Official Partner Offer: Get a 24-month plan for as low as US$2.99/month, approximately 70% off, with a 30-day money-back guarantee.`</br>
 
-[VPN Giveaway Group](https://331024.de/archives/choujiang) | [VPN Chat Group](https://331024.de/archives/choujiang) | [VPN Trial Group](https://331024.de/archives/choujiang)<br>
+#### 👉 [Claim the Official Proton VPN 70% Discount](https://to.iix.im/p01)</br>
 
-[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+[![Proton VPN 30-Day Money-Back Guarantee](https://github.com/jdnei/protonvpn/blob/main/protonvpn/20260702-093711.jpg?raw=true)](https://to.iix.im/p01)
+
+## Download
+
+🪟 [Windows](https://protonvpn.com/download-windows) ｜ 🍎 [macOS](https://protonvpn.com/download-macos) ｜ 🐧 [Linux](https://protonvpn.com/download-linux) ｜</br>
+💻 [Chromebook](https://protonvpn.com/download) ｜ 🤖 [Android](https://play.google.com/store/apps/details?id=ch.protonvpn.android) ｜ 🍎 [iPhone / iPad](https://apps.apple.com/app/proton-vpn-fast-secure/id1437005085) ｜</br>
+🌍 [Chrome](https://protonvpn.com/download-chrome-extension) ｜ 🦊 [Firefox](https://protonvpn.com/download) ｜</br>
+📺 [Android TV](https://protonvpn.com/download) ｜ 🍎 [Apple TV](https://protonvpn.com/download-appletv) ｜ 🔥 [Fire TV](https://protonvpn.com/download)
 
 ## Introduction
 
-Nexitally is a premium proxy service provider operated by an overseas team. It focuses on exceptional connection stability, high-speed network performance, and seamless compatibility across multiple platforms.
-
-Its target users include heavy internet users, digital nomads, international trade professionals, and software developers who demand excellent network quality and have sufficient budgets.
-
-After several years of operation, Nexitally has established a strong reputation for resistance to network blocking, redundant network infrastructure, and efficient daily maintenance, positioning itself among the leading premium VPN providers.
+Proton VPN is a well-known VPN service developed by the Swiss-based Proton team. It focuses on privacy protection, secure encryption, and a strict no-logs policy. The service supports multiple platforms and offers a permanently free plan.
 
 ## Advantages
 
-- **Premium Dedicated-Line Infrastructure:** Nexitally uses high-quality IEPL/IPLC international private network connections combined with premium BGP entry points. This level of network isolation is designed to minimize the impact of evening peak-hour QoS throttling and firewall interference in mainland China, providing extremely low latency and minimal packet loss.
+Headquartered in Switzerland, Proton VPN benefits from strong privacy laws and uses AES-256 encryption along with widely adopted protocols such as WireGuard and OpenVPN.
 
-- **Optimized Protocols and Client Compatibility:** The service generally uses a highly optimized Shadowsocks protocol for fast connections and handshakes. In addition to its official one-click applications for Windows, macOS, and Android, Nexitally supports popular third-party clients such as Shadowrocket, Quantumult X, Surge, and Clash.
+Its no-logs policy has undergone independent audits, and its client applications are fully open source.
 
-- **Streaming and AI Unblocking:** Nexitally offers numerous native IP addresses and uses intelligent DNS-based streaming unblocking technology on its servers. This enables access to region-restricted streaming platforms such as Netflix, Disney+, and HBO Max, as well as AI services including ChatGPT and Claude.
+Proton VPN also provides Secure Core multi-hop servers, a Kill Switch, DNS leak protection, and a free plan. Combining security, stability, and ease of use, it is a popular choice among users who prioritize privacy and online security.
 
-- **Comprehensive UDP Support:** Its dedicated network infrastructure provides strong UDP forwarding capabilities, making it suitable for voice calls, video conferencing, and international online games that depend on UDP connections.
+## Plan Comparison
 
-## Subscription Plans
+### NordVPN vs. Surfshark vs. Proton VPN
 
-All plans include:
+| Feature | NordVPN | Surfshark | **Proton VPN (Recommended) ⭐** |
+|------|----------|-----------|-------------------------|
+| Experience in China | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
+| Connection Stability | Good | Good | Excellent |
+| Privacy Protection | Excellent | Good | **Excellent (Swiss Privacy Laws)** |
+| No-Logs Policy | ✅ | ✅ | **✅ (Independently Audited)** |
+| Open-Source Clients | ❌ | ❌ | ✅ |
+| Independent Security Audits | ✅ | ✅ | ✅ |
+| Secure Core Multi-Hop Servers | ❌ | ❌ | ✅ |
+| Free Plan | ❌ | ❌ | ✅ |
+| Streaming Unblocking | Netflix, Disney+, Hulu | Netflix, Disney+, Hulu | Netflix, Disney+, Hulu |
+| P2P Downloads | ✅ | ✅ | ✅ |
+| Kill Switch | ✅ | ✅ | ✅ |
+| Multi-Hop Connections | ✅ | ✅ | ✅ (Secure Core) |
+| Company Location | Panama | Netherlands | **Switzerland** |
+| Best For | Speed-focused users | Budget-conscious users | **Users prioritizing privacy, security, and long-term use** |
 
-- Mainland China BGP relay connections
-- Dedicated-line network transmission
-- Maximum bandwidth of 2000 Mbps
-- Streaming unblocking through routers
-- Intelligent access-point allocation
+### Why Do We Recommend Proton VPN?
 
-### 1. Smart Access
+- 🇨🇭 Headquartered in Switzerland and protected by strong privacy laws
+- 🔓 Fully open-source client applications across all supported platforms, ensuring transparency
+- 🛡 No-logs policy verified through independent third-party security audits
+- 🔒 Secure Core multi-hop connections for enhanced privacy protection
+- 🎬 Supports popular streaming platforms such as Netflix, Disney+, and Hulu
+- 💻 Available on Windows, macOS, Linux, Android, iPhone, iPad, and other platforms
+- 🆓 Offers a permanently free plan, allowing users to try the service before upgrading
 
-*Designed for regular users with moderate to high traffic requirements. Includes 500 GB of traffic per month.*
-
-| Subscription Duration | Supported Devices | Traffic Allowance per Period | Total Price | Equivalent Monthly Cost (31 Days) |
-| :--- | :---: | :---: | :--- | :--- |
-| **31 days** | 2 | 500 GB | ¥123.33 | ¥123.33 |
-| **186 days** | 2 | 500 GB/month | ¥623.70 | ¥103.95 (Save 15%) |
-| **372 days** | 2 | 500 GB/month | ¥1157.52 | **¥96.46 (Best Value)** |
-
----
-
-### 2. Smart Access Air
-
-*Designed for light users or those with limited budgets. Includes 200 GB of traffic per month.*
-
-| Subscription Duration | Supported Devices | Traffic Allowance per Period | Total Price | Equivalent Monthly Cost (31 Days) |
-| :--- | :---: | :---: | :--- | :--- |
-| **31 days** | 2 | 200 GB | ¥74.55 | ¥74.55 |
-| **186 days** | 2 | 200 GB/month | ¥378.00 | ¥63.00 |
-| **372 days** | 2 | 200 GB/month | ¥655.20 | **¥54.60** |
-
----
-
-### 3. Add-on Services
-
-> **Important:** Add-on services cannot function independently. They must be used together with one of the base subscription plans listed above.
-
-| Service | Main Features | Additional Traffic | Price |
-| :--- | :--- | :---: | :--- |
-| **Premium Access X 12** | Anycast networks in Japan, the United States, and South Korea; dedicated financial-grade connections between China and the United States | +500 GB/month | ¥170.10 / 31 days |
-| **Group Access** | Increases the maximum number of supported online devices to **5** | — | ¥47.41 / 31 days |
-
----
-
-## Server Node Information
-
-To optimize network routing, nodes are assigned to different default access groups based on their physical locations.
-
-The two primary access groups are:
-
-- `China_South_1`
-- `China_East_1`
-
-Premium nodes are available in selected regions.
-
-### 🌏 Asia Pacific
-
-| Region / Country | Standard Nodes | Premium Nodes | Default Access Group |
-| :--- | :--- | :--- | :--- |
-| **🇭🇰 Hong Kong** | 01–19, 23 | 20, 21, 22 | `China_South_1` |
-| **🇯🇵 Japan** | 01–21, 24–27 | 22, 23 | `China_East_1` |
-| **🇸🇬 Singapore** | 01–10, 12 | 11 | `China_South_1` |
-| **🇹🇼 Taiwan** | 01–10 | — | `China_South_1` |
-| **🇰🇷 South Korea** | 01, 02 (`China_South_1`)<br>04 (`China_East_1`) | 03 (`China_East_1`) | Mixed (see individual node details) |
-
-### 🌎 Americas
-
-| Region / Country | Standard Nodes | Premium Nodes | Default Access Group |
-| :--- | :--- | :--- | :--- |
-| **🇺🇸 United States** | Seattle 01–09<br>San Jose 07–08<br>Los Angeles 01–07 | San Jose 01–06 | `China_East_1` |
-| **🇨🇦 Canada** | 01–03 | — | `China_East_1` |
-| **🇧🇷 Brazil** | 01 | — | `China_East_1` |
-| **🇦🇷 Argentina** | 01 | — | `China_East_1` |
-| **🇨🇱 Chile** | 01 | — | `China_East_1` |
-
-### 🌍 Europe and Other Regions
-
-| Region / Country | Node Numbers / Locations | Default Access Group |
-| :--- | :--- | :--- |
-| **🇬🇧 United Kingdom** | 01–08 | `China_South_1` |
-| **🇩🇪 Germany** | 01–05 | `China_South_1` |
-| **🇦🇺 Australia** | Sydney 02, Sydney 01 [Premium] | `China_South_1` |
-| **🇮🇳 India** | 01–02 | `China_South_1` |
-| **🇨🇭 Switzerland** | 01–02 | `China_South_1` |
-| **🇷🇺 Russia** | St. Petersburg, Moscow 01 | `China_South_1` |
-| **🇮🇪 Ireland** | 01–02 | `China_South_1` |
-| **Other European Nodes** | France 01, Netherlands 01, Sweden 01, Bulgaria 01,<br>Austria 01, Hungary 01 | `China_South_1` |
-| **Other Asian / Middle Eastern Nodes** | Turkey 01, United Arab Emirates 01, Indonesia 01 | `China_South_1` |
-
----
-
-## 📊 Performance Tests and Analysis
-
-#### 1. Evening Peak-Hour Speed Test
-
-![Nexitally Evening Peak-Hour Speed Test](https://pic.us.kg/file/1778462780637_nxspeedtest.png?raw=true)
-
-#### 2. Streaming Platform Unblocking Report
-
-![Nexitally Streaming Unblocking Report](https://github.com/Travis0234/FlowerCloud-/raw/main/image/nxunlock.png?raw=true)
-
-#### 3. Network Route and Node Analysis
-
-![Nexitally Network Route Analysis](https://github.com/Travis0234/FlowerCloud-/raw/main/image/nxnode.png?raw=true)
+> **Note:** VPN connectivity may vary depending on your location and network conditions. If you plan to travel to a region with internet restrictions, it is recommended to download and install the VPN client in advance for a better experience.
