@@ -2,7 +2,7 @@
 
 [![Proton VPN — гарантия возврата денег в течение 30 дней](https://github.com/jdnei/protonvpn/blob/main/protonvpn/202607020928.png?raw=true)](https://to.iix.im/p01)
 
-# Официальный сайт ProtonVPN (обновлено 4 ноября 2026 года)
+# Официальный сайт ProtonVPN (обновлено 5 ноября 2026)
 
 Официальный сайт ProtonVPN</br>
 
