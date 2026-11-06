@@ -2,7 +2,7 @@
 
 [![ضمانت بازگشت وجه 30 روزه Proton VPN](https://github.com/jdnei/protonvpn/blob/main/protonvpn/202607020928.png?raw=true)](https://to.iix.im/p01)
 
-# آدرس رسمی ProtonVPN (به‌روزرسانی 5 نوامبر 2026)
+# آدرس رسمی ProtonVPN (به‌روزرسانی 6 نوامبر 2026)
 
 وب‌سایت رسمی ProtonVPN</br>
 
