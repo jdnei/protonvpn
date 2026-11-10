@@ -2,7 +2,7 @@
 
 [![Proton VPN 30-Day Money-Back Guarantee](https://github.com/jdnei/protonvpn/blob/main/protonvpn/202607020928.png?raw=true)](https://to.iix.im/p01)
 
-# ProtonVPN Official Website (Updated November 9, 2026)
+# ProtonVPN Official Website (Updated November 10, 2026)
 
 ProtonVPN Official Website</br>
 
