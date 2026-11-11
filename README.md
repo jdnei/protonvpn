@@ -3,7 +3,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# ProtonVPN官方地址(2026年11月10日更新)
+# ProtonVPN官方地址(2026年11月11日更新)
 ProtonVPN官网地址</br>
 官方地址：[protonvpn.com/zh-tw](https://protonvpn.com/zh-tw)</br>
 ## 优惠
